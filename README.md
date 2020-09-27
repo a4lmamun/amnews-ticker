@@ -2,6 +2,8 @@
 
 News ticker using vanilla javascript.
 
+[Demo](https://a4lmamun.github.io/amnews-ticker/)
+
 ## Features
 
 * Direction: Right to left.
